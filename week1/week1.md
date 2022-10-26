@@ -1,7 +1,6 @@
-We installed Miniconda, which includes a Python distribution and a package installer called [pip](https://pypi.org/project/pip/), in the first exercise class. We then used pip to install [numpy](https://numpy.org/install/) and [Jupyter](https://jupyter.org/install). We also covered a part of introduction to Python, namely importing modules, namespaces and help pages. 
-
-
 # Week 1: Installing Python, intro to Python
+
+We installed Miniconda, which includes a Python distribution and a package installer called [pip](https://pypi.org/project/pip/), in the first exercise class. We then used pip to install [numpy](https://numpy.org/install/) and [Jupyter](https://jupyter.org/install). We also covered a part of introduction to Python, namely importing modules, namespaces and help pages. 
 
 **Resources:**
 
